@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://qjtt2000.github.io/nordcoasthealthinstitute/sitemap.xml
